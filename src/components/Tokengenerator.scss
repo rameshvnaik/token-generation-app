@@ -1,0 +1,27 @@
+.token-generator-section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+
+    .input-section{
+        width: 500px;
+        padding: 7px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-between;
+
+        input{
+            padding: 5px;
+        }
+
+        
+        button{
+            margin-left: 5px;
+            padding: 5px;
+        }
+        
+    }
+}
